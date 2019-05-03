@@ -1,0 +1,95 @@
+{
+  "location": {
+    "name": "Statesboro, GA",
+    "city": "Statesboro",
+    "state": "GA",
+    "zip_code": "30458"
+  },
+  "current_conditions": {
+    "current_temperature": 80,
+    "temperature": {
+      "high": 81.3,
+      "low": 62
+    },
+    "heat_index": 83.2,
+    "description": "Partly cloudy",
+    "precipitation_percentage": 21,
+    "wind_speed": 2,
+    "wind_direction": "NE",
+    "date": "2019-05-01T00:00"
+  },
+  "predictions": [
+    {
+      "temperature": {
+        "high": 86,
+        "low": 69
+      },
+      "heat_index": 89,
+      "description": "Partly cloudy",
+      "precipitation_percentage": 11,
+      "wind_speed": 6,
+      "wind_direction": "N",
+      "date": "2019-05-02T00:00"
+    },
+    {
+      "temperature": {
+        "high": 90,
+        "low": 70
+      },
+      "heat_index": 92,
+      "description": "Sunny",
+      "precipitation_percentage": 0,
+      "wind_speed": 3,
+      "wind_direction": "N",
+      "date": "2019-05-03T00:00"
+    },
+    {
+      "temperature": {
+        "high": 95,
+        "low": 73
+      },
+      "heat_index": 97,
+      "description": "Sunny",
+      "precipitation_percentage": 0,
+      "wind_speed": 1,
+      "wind_direction": "NE",
+      "date": "2019-05-04T00:00"
+    },
+    {
+      "temperature": {
+        "high": 88,
+        "low": 64
+      },
+      "heat_index": 89,
+      "description": "Partly cloudy",
+      "precipitation_percentage": 0,
+      "wind_speed": 10,
+      "wind_direction": "SW",
+      "date": "2019-05-05T00:00"
+    },
+    {
+      "temperature": {
+        "high": 75,
+        "low": 52
+      },
+      "heat_index": 75,
+      "description": "Scattered Thunderstorms",
+      "precipitation_percentage": 80,
+      "wind_speed": 11,
+      "wind_direction": "NE",
+      "date": "2019-05-06T00:00"
+    },
+    {
+      "temperature": {
+        "high": 83,
+        "low": 62
+      },
+      "heat_index": 83.2,
+      "description": "Thunderstorm",
+      "precipitation_percentage": 90,
+      "wind_speed": 13,
+      "wind_direction": "NE",
+      "date": "2019-05-07T00:00"
+    }
+  ]
+}
