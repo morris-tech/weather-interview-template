@@ -16,8 +16,8 @@ This project should be completed in the following order:
 You are also welcome to use software such as Adobe Illustrator or Adobe Photoshop to create a mockup for the site.
 
 3. Take the boilerplate template `index.html` and create the layout and design based on your previous
-wireframe/mockup. Use the `index.css` file to add your styling to the page. 
+wireframe/mockup. Use the `src/index.css` file to add your styling to the page. 
 Feel free to use hardcoded values as placeholders, later we will make it dynamic.
 
-4. Pull the data from the `data/forecast.json` file and display it on the page. jQuery has been made available on the page.
-All javascript can be written in `weather.js`.
+4. Pull data from the `data/forecast.json` file and display it on the page. jQuery has been made available on the page.
+All javascript can be written in `src/weather.js`.
