@@ -21,3 +21,8 @@ Feel free to use hardcoded values as placeholders, later we will make it dynamic
 
 4. Pull data from the `data/forecast.json` file and display it on the page. jQuery has been made available on the page.
 All javascript can be written in `src/weather.js`.
+
+## Resources
+- [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
+- [jQuery](https://api.jquery.com/)
+- [icons8](https://icons8.com/)
