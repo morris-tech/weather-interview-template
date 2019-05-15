@@ -1,7 +1,3 @@
-# weather-interview-template
-A barebones HTML, CSS and JS template representing a website for displaying weather related information that 
-is used as part of a technical interview.
-
 ## Instructions
 
 Create a website that displays basic weather information to the user. It is up to you to decide what information and 
